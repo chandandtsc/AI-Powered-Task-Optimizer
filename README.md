@@ -109,7 +109,4 @@ Python 3.10
 
 For questions or support, please reach out to me:
 
-Email: iamakashjha@icloud.com
-
-GitHub: https://github.com/iamakashjha/
 
